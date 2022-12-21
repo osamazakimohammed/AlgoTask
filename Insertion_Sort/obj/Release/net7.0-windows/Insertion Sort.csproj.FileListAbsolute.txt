@@ -1,0 +1,17 @@
+C:\Users\osama\source\repos\Insertion Sort\bin\Release\net7.0-windows\Insertion Sort.exe
+C:\Users\osama\source\repos\Insertion Sort\bin\Release\net7.0-windows\Insertion Sort.deps.json
+C:\Users\osama\source\repos\Insertion Sort\bin\Release\net7.0-windows\Insertion Sort.runtimeconfig.json
+C:\Users\osama\source\repos\Insertion Sort\bin\Release\net7.0-windows\Insertion Sort.dll
+C:\Users\osama\source\repos\Insertion Sort\bin\Release\net7.0-windows\Insertion Sort.pdb
+C:\Users\osama\source\repos\Insertion Sort\obj\Release\net7.0-windows\Insertion Sort.csproj.AssemblyReference.cache
+C:\Users\osama\source\repos\Insertion Sort\obj\Release\net7.0-windows\Insertion_Sort.Form1.resources
+C:\Users\osama\source\repos\Insertion Sort\obj\Release\net7.0-windows\Insertion Sort.csproj.GenerateResource.cache
+C:\Users\osama\source\repos\Insertion Sort\obj\Release\net7.0-windows\Insertion Sort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\osama\source\repos\Insertion Sort\obj\Release\net7.0-windows\Insertion Sort.AssemblyInfoInputs.cache
+C:\Users\osama\source\repos\Insertion Sort\obj\Release\net7.0-windows\Insertion Sort.AssemblyInfo.cs
+C:\Users\osama\source\repos\Insertion Sort\obj\Release\net7.0-windows\Insertion Sort.csproj.CoreCompileInputs.cache
+C:\Users\osama\source\repos\Insertion Sort\obj\Release\net7.0-windows\Insertion Sort.dll
+C:\Users\osama\source\repos\Insertion Sort\obj\Release\net7.0-windows\refint\Insertion Sort.dll
+C:\Users\osama\source\repos\Insertion Sort\obj\Release\net7.0-windows\Insertion Sort.pdb
+C:\Users\osama\source\repos\Insertion Sort\obj\Release\net7.0-windows\Insertion Sort.genruntimeconfig.cache
+C:\Users\osama\source\repos\Insertion Sort\obj\Release\net7.0-windows\ref\Insertion Sort.dll

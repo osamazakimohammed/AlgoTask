@@ -1,0 +1,15 @@
+C:\Users\osama\source\repos\MST_Console\obj\Debug\net7.0\MST_Console.csproj.AssemblyReference.cache
+C:\Users\osama\source\repos\MST_Console\obj\Debug\net7.0\MST_Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\osama\source\repos\MST_Console\obj\Debug\net7.0\MST_Console.AssemblyInfoInputs.cache
+C:\Users\osama\source\repos\MST_Console\obj\Debug\net7.0\MST_Console.AssemblyInfo.cs
+C:\Users\osama\source\repos\MST_Console\obj\Debug\net7.0\MST_Console.csproj.CoreCompileInputs.cache
+C:\Users\osama\source\repos\MST_Console\bin\Debug\net7.0\MST_Console.exe
+C:\Users\osama\source\repos\MST_Console\bin\Debug\net7.0\MST_Console.deps.json
+C:\Users\osama\source\repos\MST_Console\bin\Debug\net7.0\MST_Console.runtimeconfig.json
+C:\Users\osama\source\repos\MST_Console\bin\Debug\net7.0\MST_Console.dll
+C:\Users\osama\source\repos\MST_Console\bin\Debug\net7.0\MST_Console.pdb
+C:\Users\osama\source\repos\MST_Console\obj\Debug\net7.0\MST_Console.dll
+C:\Users\osama\source\repos\MST_Console\obj\Debug\net7.0\refint\MST_Console.dll
+C:\Users\osama\source\repos\MST_Console\obj\Debug\net7.0\MST_Console.pdb
+C:\Users\osama\source\repos\MST_Console\obj\Debug\net7.0\MST_Console.genruntimeconfig.cache
+C:\Users\osama\source\repos\MST_Console\obj\Debug\net7.0\ref\MST_Console.dll
